@@ -14,6 +14,8 @@ que muestran el cambio porcentual promedio de los casos diarios según grupo eta
 
 ## Características del subset para COVID-19 del archivo base DEIS
 
+El perfil de los datos del archivo `processed-files/fallecidos_rango_<fecha>.csv` es el siguiente:
+
 ### Al 01-04-2021
 
 | Item | Count |
@@ -35,3 +37,14 @@ que muestran el cambio porcentual promedio de los casos diarios según grupo eta
 | Menores de 50 años | 1923 |
 | Entre 50 y 69 años | 9385 |
 | Mayor a 70 años | 20740 | 
+
+### Al 15-04-2021
+
+| Item | Count |
+| :-- | --: |
+| Casos totales | 33205 |
+| Casos hombres | 18695 |
+| Casos mujeres | 14510 |
+| Menores de 50 años | 2006 |
+| Entre 50 y 69 años | 9762 |
+| Mayor a 70 años | 21437 | 
