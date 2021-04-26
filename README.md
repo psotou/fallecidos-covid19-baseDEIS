@@ -38,13 +38,13 @@ El perfil de los datos del archivo `processed-files/fallecidos_rango_<fecha>.csv
 | Entre 50 y 69 años | 9385 |
 | Mayor a 70 años | 20740 | 
 
-### Al 15-04-2021
+### Al 22-04-2021
 
 | Item | Count |
 | :-- | --: |
-| Casos totales | 33205 |
-| Casos hombres | 18695 |
-| Casos mujeres | 14510 |
-| Menores de 50 años | 2006 |
-| Entre 50 y 69 años | 9762 |
-| Mayor a 70 años | 21437 | 
+| Casos totales | 32667 |
+| Casos hombres | 18391 |
+| Casos mujeres | 14275 |
+| Menores de 50 años | 2022 |
+| Entre 50 y 69 años | 9684 |
+| Mayor a 70 años | 20960 | 

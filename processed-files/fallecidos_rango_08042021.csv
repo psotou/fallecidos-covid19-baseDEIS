@@ -1,4 +1,4 @@
-fecha,sexo,grupo_etario,region
+fecha,sexo,grupo_etario,comuna
 2021-03-21,Hombre,>=70,San Bernardo
 2021-02-22,Hombre,>=70,Puerto Montt
 2021-03-30,Hombre,>=70,Quillota
