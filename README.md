@@ -4,7 +4,7 @@ Archivo de texto de la base DEIS para los fallecidos por COVID-19.
 
 El archivo 
 ```bash 
-processed-files/fallecidos_rango_<fecha>.csv
+processed-files/fallecidos_rango.csv
 ``` 
 se ha normalizado a un archivo de texto con encoding UTF-8 separado por comas. De este archivo derivan los archivos
 ```bash 
