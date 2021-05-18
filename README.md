@@ -16,7 +16,7 @@ que muestran el cambio porcentual promedio de los casos diarios según grupo eta
 
 El perfil de los datos del archivo `processed-files/fallecidos_rango_<fecha>.csv` es el siguiente:
 
-### Al 06-05-2021
+### Al 13-05-2021
 
 | Item | Count |
 | :-- | --: |
