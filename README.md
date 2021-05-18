@@ -20,9 +20,9 @@ El perfil de los datos del archivo `processed-files/fallecidos_rango_<fecha>.csv
 
 | Item | Count |
 | :-- | --: |
-| Casos totales | 34392 |
-| Casos hombres | 19379 |
-| Casos mujeres | 15013 |
-| Menores de 50 años | 2207 |
-| Entre 50 y 69 años | 10302 |
-| Mayor a 70 años | 21883 | 
+| Casos totales | 35235 |
+| Casos hombres | 19851 |
+| Casos mujeres | 15384 |
+| Menores de 50 años | 2290 |
+| Entre 50 y 69 años | 10608 |
+| Mayor a 70 años | 22337 | 
