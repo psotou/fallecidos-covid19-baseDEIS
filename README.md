@@ -14,7 +14,7 @@ que muestran el cambio porcentual promedio de los casos diarios según grupo eta
 
 ## Características del subset para COVID-19 del archivo base DEIS
 
-El perfil de los datos del archivo `processed-files/fallecidos_rango_<fecha>.csv` es el siguiente:
+El perfil de los datos del archivo `processed-files/fallecidos_rango.csv` es el siguiente:
 
 ### Al 03-06-2021
 
