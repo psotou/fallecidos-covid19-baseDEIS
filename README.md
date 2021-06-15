@@ -16,13 +16,13 @@ que muestran el cambio porcentual promedio de los casos diarios según grupo eta
 
 El perfil de los datos del archivo `processed-files/fallecidos_rango.csv` es el siguiente:
 
-### Al 03-06-2021
+### Al 10-06-2021
 
 | Item | Count |
 | :-- | --: |
-| Casos totales | 38120 |
-| Casos hombres | 21441 |
-| Casos mujeres | 16679 |
-| Menores de 50 años | 2594 |
-| Entre 50 y 69 años | 11519 |
-| Mayor a 70 años | 24007 | 
+| Casos totales | 39163 |
+| Casos hombres | 22036 |
+| Casos mujeres | 17127 |
+| Menores de 50 años | 2710 |
+| Entre 50 y 69 años | 11820 |
+| Mayor a 70 años | 24633 | 
